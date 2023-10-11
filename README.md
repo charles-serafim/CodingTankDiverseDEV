@@ -24,7 +24,7 @@ Para rodar localmente as soluções contruídas para os problemas, siga estes pa
     cd CodingTankFinalChallengeTest/FinalChallenge/Desafio01/
 
     cd CodingTankFinalChallengeTest/FinalChallenge/Desafio02/
-    
+
     cd CodingTankFinalChallengeTest/FinalChallenge/Desafio03/
 ```
 
@@ -39,4 +39,4 @@ Obs.: Recomenda-se fazer o download do projeto como um todo, para a utilização
 
 ### 3. Lista de Problemas
 
-A lista contendo a descrição dos problemas do desafio pode ser acessada [aqui](https://github.com/charles-serafim/CodingTankFinalChallengeTest/blob/main/FinalChallenge/Problems.md).
+A lista contendo a descrição dos problemas do desafio pode ser acessada [aqui](https://github.com/charles-serafim/CondingTankDiverseDEV/blob/main/FinalChallenge/Problems.md).
