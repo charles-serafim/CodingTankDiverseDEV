@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/Desafio01/Desafio01.csproj": {}
+  },
+  "projects": {
+    "/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/Desafio01/Desafio01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/Desafio01/Desafio01.csproj",
+        "projectName": "Desafio01",
+        "projectPath": "/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/Desafio01/Desafio01.csproj",
+        "packagesPath": "/home/serafim/.nuget/packages/",
+        "outputPath": "/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/Desafio01/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/serafim/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/MyFunctions/MyFunctionsLibrary/MyFunctionsLibrary.csproj": {
+                "projectPath": "/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/MyFunctions/MyFunctionsLibrary/MyFunctionsLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/MyFunctions/MyFunctionsLibrary/MyFunctionsLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/MyFunctions/MyFunctionsLibrary/MyFunctionsLibrary.csproj",
+        "projectName": "MyFunctionsLibrary",
+        "projectPath": "/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/MyFunctions/MyFunctionsLibrary/MyFunctionsLibrary.csproj",
+        "packagesPath": "/home/serafim/.nuget/packages/",
+        "outputPath": "/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/MyFunctions/MyFunctionsLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/serafim/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

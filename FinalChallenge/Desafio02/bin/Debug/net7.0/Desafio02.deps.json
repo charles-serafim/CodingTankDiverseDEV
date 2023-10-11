@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Desafio02/1.0.0": {
+        "dependencies": {
+          "MyFunctionsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Desafio02.dll": {}
+        }
+      },
+      "MyFunctionsLibrary/1.0.0": {
+        "runtime": {
+          "MyFunctionsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyFunctionsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

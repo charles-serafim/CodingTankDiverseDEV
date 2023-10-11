@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FinalChallenge", "FinalChallenge", "{8EC342F1-62DC-427C-B952-E7F2243821CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyFunctions", "MyFunctions", "{44D1BC19-D498-4A8E-9B7F-EB5925692081}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFunctionsLibrary", "FinalChallenge\MyFunctions\MyFunctionsLibrary\MyFunctionsLibrary.csproj", "{B24E97D4-6F11-4BBD-A9BC-31DE86258D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B24E97D4-6F11-4BBD-A9BC-31DE86258D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24E97D4-6F11-4BBD-A9BC-31DE86258D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24E97D4-6F11-4BBD-A9BC-31DE86258D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24E97D4-6F11-4BBD-A9BC-31DE86258D19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{44D1BC19-D498-4A8E-9B7F-EB5925692081} = {8EC342F1-62DC-427C-B952-E7F2243821CB}
+		{B24E97D4-6F11-4BBD-A9BC-31DE86258D19} = {44D1BC19-D498-4A8E-9B7F-EB5925692081}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93741906-C769-4B49-AE6E-1932411FD647}
+	EndGlobalSection
+EndGlobal

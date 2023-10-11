@@ -1,0 +1,12 @@
+/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/MyFunctions/MyFunctionsLibrary/bin/Debug/net7.0/MyFunctionsLibrary.deps.json
+/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/MyFunctions/MyFunctionsLibrary/bin/Debug/net7.0/MyFunctionsLibrary.dll
+/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/MyFunctions/MyFunctionsLibrary/bin/Debug/net7.0/MyFunctionsLibrary.pdb
+/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/MyFunctions/MyFunctionsLibrary/obj/Debug/net7.0/MyFunctionsLibrary.csproj.AssemblyReference.cache
+/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/MyFunctions/MyFunctionsLibrary/obj/Debug/net7.0/MyFunctionsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/MyFunctions/MyFunctionsLibrary/obj/Debug/net7.0/MyFunctionsLibrary.AssemblyInfoInputs.cache
+/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/MyFunctions/MyFunctionsLibrary/obj/Debug/net7.0/MyFunctionsLibrary.AssemblyInfo.cs
+/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/MyFunctions/MyFunctionsLibrary/obj/Debug/net7.0/MyFunctionsLibrary.csproj.CoreCompileInputs.cache
+/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/MyFunctions/MyFunctionsLibrary/obj/Debug/net7.0/MyFunctionsLibrary.dll
+/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/MyFunctions/MyFunctionsLibrary/obj/Debug/net7.0/refint/MyFunctionsLibrary.dll
+/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/MyFunctions/MyFunctionsLibrary/obj/Debug/net7.0/MyFunctionsLibrary.pdb
+/home/serafim/repos/oficial/CondingTankDiverseDEV/FinalChallenge/MyFunctions/MyFunctionsLibrary/obj/Debug/net7.0/ref/MyFunctionsLibrary.dll
