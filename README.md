@@ -2,6 +2,10 @@
 
 Neste repositório, você vai encontrar as minhas soluções para os desafios da prova final da primeira fase do Coding Tank do programa [DiverseDEV](https://ada.tech/sou-aluno/programas/mercado-eletronico-diversedev), iniciativa da [Ada Tech](https://ada.tech/) em parceria com o [Mercado Eletrônico](https://www.me.com.br/).
 
+Confira também o meu repositório de [anotações de aulas e resoluções dos exercícios do Coding Tank](https://github.com/AlunosDiverseDEV2023/CodingTank1).
+
+GitHub Pages: [DiverseDEV Coding Tank - 2023](https://alunosdiversedev2023.github.io/CodingTank1/).
+
 
 ### 1. Pré-requisitos
 
@@ -15,17 +19,17 @@ Para rodar localmente as soluções contruídas para os problemas, siga estes pa
 1. No prompt de comando, digite a seguinte linha para clonar o repositório
 
 ``` 
-    git clone https://github.com/charles-serafim/CodingTankFinalChallengeTest.git
+    git clone https://github.com/charles-serafim/CodingTankDiverseDEV.git
 ```
 
 2. Navegue até a pasta correspondente ao desafio contendo o arquivo principal da solução
 
 ``` 
-    cd CodingTankFinalChallengeTest/FinalChallenge/Desafio01/
+    cd CodingTankDiverseDEV/FinalChallenge/Desafio01/
 
-    cd CodingTankFinalChallengeTest/FinalChallenge/Desafio02/
+    cd CodingTankDiverseDEV/FinalChallenge/Desafio02/
 
-    cd CodingTankFinalChallengeTest/FinalChallenge/Desafio03/
+    cd CodingTankDiverseDEV/FinalChallenge/Desafio03/
 ```
 
 3. Execute o comando seguinte para rodar o programa
@@ -39,4 +43,4 @@ Obs.: Recomenda-se fazer o download do projeto como um todo, para a utilização
 
 ### 3. Lista de Problemas
 
-A lista contendo a descrição dos problemas do desafio pode ser acessada [aqui](https://github.com/charles-serafim/CondingTankDiverseDEV/blob/main/FinalChallenge/Problems.md).
+A lista contendo a descrição dos problemas do desafio pode ser acessada [aqui](https://github.com/charles-serafim/CodingTankDiverseDEV/blob/main/FinalChallenge/Problems.md).
